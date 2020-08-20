@@ -1,3 +1,3 @@
 # feature_engineering
 
-# exercises related to feature extraction and feature engineering
+exercises related to feature extraction and feature engineering
